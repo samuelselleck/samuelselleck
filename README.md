@@ -15,6 +15,6 @@ Recently migrated to the California Bay Area 🏞️.
 Semi-successfully removed a [spatially variant image blurring effect](https://docs.google.com/presentation/d/1YxanN78k-4-meaG0Hsz92i-d0j8HfYl1H4cdfQf7ZUo/edit?usp=sharing) during my time at [MAX IV Laboratory](https://www.maxiv.lu.se/). Built a bunch of [educational optics apps](https://openopticsmodule.com/) from scratch that help students learn about geometrical optics. Won a high performance [programming challenge](https://github.com/KvGeijer/SamKo-HPDSO22-Stockholm-Challenge) with partner [Kåre von Geijer](https://karevongeijer.com/) at [HPDSO](https://www.hyperightdataclub.com/hp-data-science-open-stockholm/). And other things!
 
 ### I would like to spend more time
-Remembering to be grateful and enjoy the small things **|** Learning from people who know a lot **|** Spending more time outdoors **|** Understanding myself better **|** Writing [blogs](https://samuelselleck.com) **|**  Becoming more comfortable with discomfort **|** Learning new things
+Remembering to be grateful and enjoy the small things **|** Learning from people who know a lot **|** Spending more time outdoors **|** Understanding myself better **|** Writing [blogs](https://samuelselleck.com)
 
 I'm friendly, say hi!
