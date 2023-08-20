@@ -2,7 +2,7 @@
 
 I'm a curious engineer from Sweden who loves science 🧬💥
 
-I like fractals ❄️🐚 and other things that look complex but boil down to simple rules (like us 🌍🌌). I enjoy trying new things 🏄‍♂️ and being bad at things. I don't particularly enjoy feeling mediocre at things. I do enjoy feeling good at things.
+I like fractals ❄️🐚 and other things that look complex but boil down to simple rules (like us 🌍🌌). I enjoy trying new things 🏄‍♂️ and being bad at things. I don't particularly enjoy feeling mediocre at things but I do enjoy feeling good at things.
 
 I watch a lot of Youtube 📚. Some favorite channels are: [Applied Science](https://www.youtube.com/@AppliedScience), [Jon Gjengset](https://www.youtube.com/@jonhoo), [Technology Connections](https://www.youtube.com/@TechnologyConnections), [Primitive Technology](https://www.youtube.com/@primitivetechnology9550), [Simone Giertz](https://www.youtube.com/@simonegiertz) and [Kurzgesagt](https://www.youtube.com/@kurzgesagt). (If you'd like more recommendations, don't hesitate to ask).
 
