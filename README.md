@@ -1,7 +1,5 @@
 ### Hi there, lovely to meet you! <3
 
-I'm a curious engineer from Sweden who loves science 🧬💥
-
 * I like fractals ❄️🐚 and other things that look complex but boil down to simple rules (like us 🌍🌌).
 * I watch a lot of educational Youtube 📚. Some favorite channels are: [Applied Science](https://www.youtube.com/@AppliedScience), [Jon Gjengset](https://www.youtube.com/@jonhoo), [Technology Connections](https://www.youtube.com/@TechnologyConnections), [Primitive Technology](https://www.youtube.com/@primitivetechnology9550), [Simone Giertz](https://www.youtube.com/@simonegiertz) and [Kurzgesagt](https://www.youtube.com/@kurzgesagt). (If you'd like more recommendations, don't hesitate to ask).
 * My favorite language is [Rust](https://www.rust-lang.org/). I'm really interested in [AI Safety](https://aisafety.info/).
