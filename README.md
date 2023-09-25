@@ -1,7 +1,7 @@
 ### Hi there, lovely to meet you! <3
 
 * I like fractals ❄️🐚 and other things that look complex but boil down to simple rules (like us 🌍🌌).
-* I'm passionate about creating efficient software solutions within tight performance bounds. 🛠️
+* I'm passionate about creating software with performance and correctness in focus. 🛠️
 * I watch a lot of educational Youtube 📚. Some favorite channels are: [Applied Science](https://www.youtube.com/@AppliedScience), [Jon Gjengset](https://www.youtube.com/@jonhoo), [Technology Connections](https://www.youtube.com/@TechnologyConnections), [Primitive Technology](https://www.youtube.com/@primitivetechnology9550), [Simone Giertz](https://www.youtube.com/@simonegiertz) and [Kurzgesagt](https://www.youtube.com/@kurzgesagt). (If you'd like more recommendations, don't hesitate to ask).
 * My favorite language is [Rust](https://www.rust-lang.org/). <!-- I'm really interested in [AI Safety](https://aisafety.info/). -->
 
